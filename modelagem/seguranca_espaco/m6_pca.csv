@@ -1,0 +1,118 @@
+id,nome,grupo,pc1,pc2
+PC001,(+)-catechin,guarana,1.611,-1.668
+PC002,(+)-epicatechin,guarana,1.611,-1.668
+PC003,(−)-epicatechin,guarana,1.611,-1.668
+PC004,caffeine,guarana,-0.422,-1.732
+PC005,theobromine,guarana,-0.147,-1.984
+PC006,theophylline,guarana,-0.147,-1.984
+PC007,(+)-procyanidin B2,guarana,5.325,-1.508
+PC008,(-)-procyanidin B4,guarana,5.325,-1.508
+PC009,proanthocyanidin A2,guarana,5.048,-1.545
+PC010,procyanidin B1,guarana,5.325,-1.508
+PC011,procyanidin B3,guarana,5.325,-1.508
+PC012,procyanidin C1,guarana,9.038,-1.348
+PC013,"(1R,2S,7S,8S)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",guarana,-1.988,0.546
+PC014,(±)-limonene,guarana,-1.943,-0.12
+PC015,anethol,guarana,-1.047,-0.668
+PC016,carvacrol,guarana,-1.04,-0.642
+PC017,caryophyllene,paurosa,-1.879,0.4
+PC018,estragole,guarana,-1.022,-0.637
+PC019,p-tert-pentylphenol,guarana,-1.009,-0.385
+PC020,trans-anethol,guarana,-1.047,-0.668
+PC021,cis-vaccenic acid,guarana,-0.621,2.384
+PC022,paullinic acid,guarana,-0.461,2.86
+AR001,1-Nitro-2-phenylethane,paurosa,-0.731,-0.906
+AR002,Benzyl benzoate,paurosa,-0.189,-0.61
+AR003,Methyl p-anisate,paurosa,-0.627,-1.024
+AR004,linalool 6-hydroperoxide,oxid,-0.637,-0.161
+AR005,linalool 7-hydroperoxide,oxid,-0.674,-0.267
+AR006,(E)-β-Ocimene,paurosa,-1.671,-0.094
+AR007,(Z)-β-Ocimene,paurosa,-1.671,-0.094
+AR008,Limonene,paurosa,-1.943,-0.12
+AR009,Myrcene,paurosa,-1.633,0.012
+AR010,α-Pinene,paurosa,-2.184,-0.076
+AR011,α-terpinolene,paurosa,-1.974,-0.191
+AR012,β-Pinene,paurosa,-2.184,-0.076
+AR013,cis-Linalool oxide (furanoid),paurosa,-1.45,-0.286
+AR014,cis-Linalool oxide (pyranoid),paurosa,-1.488,-0.392
+AR015,Geraniol,paurosa,-1.389,-0.092
+AR016,Linalool,paurosa,-1.389,-0.092
+AR017,Nerol,paurosa,-1.389,-0.092
+AR018,trans-Linalool oxide (furanoid),paurosa,-1.45,-0.286
+AR019,trans-Linalool oxide (pyranoid),paurosa,-1.488,-0.392
+AR020,trans-Pinene hydrate,paurosa,-1.939,-0.18
+AR021,α-Terpineol,paurosa,-1.698,-0.224
+AR022,(3E)-Hexenol,paurosa,-1.68,-0.552
+AR023,1-Hexanol,paurosa,-1.946,-0.008
+AR025,Germacrene B,paurosa,-1.734,0.361
+AR026,Valencene,paurosa,-1.842,0.506
+AR027,α-Copaene,paurosa,-1.988,0.546
+AR028,β-Elemene,paurosa,-1.64,0.573
+AR029,β-Selinene,paurosa,-1.842,0.506
+AR030,γ-Gurjunene,paurosa,-1.848,0.471
+AR031,δ-Cadinene,paurosa,-1.842,0.506
+AR032,(E)-Nerolidol,paurosa,-1.037,0.778
+AR033,(Z)-Lanceol,paurosa,-1.132,0.466
+AR034,(Z)-α-Santalol,paurosa,-1.449,0.51
+AR035,14-Hydroxy-(Z)-caryophyllene,paurosa,-1.421,0.116
+AR036,14-Hydroxy-9-epi-(E)-caryophyllene,paurosa,-1.421,0.116
+AR037,14-Hydroxy-α-humulene,paurosa,-1.281,0.042
+AR038,"Caryophylla-4 (12),8(13)-dien-5β-ol",paurosa,-1.458,0.009
+AR039,Caryophyllene oxide,paurosa,-1.78,0.335
+AR040,Cubenol,paurosa,-1.54,0.291
+AR041,Humulene epoxide II,paurosa,-1.64,0.26
+AR042,iso-Longifolol,paurosa,-1.68,0.366
+AR043,Junenol,paurosa,-1.54,0.291
+AR044,Khusilal,paurosa,-1.395,-0.073
+AR045,neo-Intermedeol,paurosa,-1.535,0.327
+AR046,Selin-11-en-4α-ol,paurosa,-1.535,0.327
+AR047,Spathulenol,paurosa,-1.599,0.085
+AR048,β-Acoradienol,paurosa,-1.384,0.222
+COS001,Acetato de tocoferila,antiox,0.331,3.209
+COS002,BHA,antiox,-0.826,-0.599
+COS003,BHT,antiox,-1.033,-0.028
+COS004,Coenzima Q10,antiox,2.518,7.74
+COS005,EGCG,antiox,4.186,-1.687
+COS006,Ergotioneína,antiox,-0.244,-1.101
+COS007,Galato de propila,antiox,0.519,-1.226
+COS008,Hidroxitirosol,antiox,-0.093,-1.572
+COS009,Idebenona,antiox,0.216,1.176
+COS010,Palmitato de ascorbila,antiox,1.359,1.956
+COS011,Quercetina,antiox,2.403,-1.872
+COS012,Resveratrol,antiox,0.7,-1.176
+COS013,Ácido ascórbico (vitamina C),antiox,0.237,-1.988
+COS014,Ácido cafeico,antiox,0.353,-1.712
+COS015,Ácido carnósico,antiox,0.24,0.078
+COS016,Ácido clorogênico,antiox,2.146,-1.81
+COS017,Ácido ferúlico,antiox,0.116,-1.269
+COS018,Ácido rosmarínico,antiox,2.437,-1.161
+COS019,Ácido α-lipoico,antiox,-1.096,0.368
+COS020,α-Tocoferol (vitamina E),antiox,0.138,2.932
+COS021,3-Benzylidene camphor,filtro,-1.003,0.021
+COS022,4-Methylbenzylidene camphor,filtro,-0.983,0.156
+COS023,Benzophenone-3,filtro,0.257,-0.848
+COS024,Benzophenone-4,filtro,1.257,-1.052
+COS025,Benzophenone-8,filtro,0.708,-1.057
+COS026,Benzylidene camphor sulfonic acid,filtro,-0.003,-0.182
+COS027,Bis-ethylhexyloxyphenol methoxyphenyl triazine,filtro,3.514,3.185
+COS028,Butyl methoxydibenzoylmethane,filtro,0.221,0.327
+COS029,Camphor benzalkonium methosulfate,filtro,-0.888,0.373
+COS030,Cinoxate,filtro,-0.13,-0.028
+COS031,Diethylamino hydroxybenzoyl hexyl benzoate,filtro,1.159,1.252
+COS032,Diethylhexyl butamido triazone,filtro,5.041,3.613
+COS033,Disodium phenyl dibenzimidazole tetrasulfonate,filtro,5.496,-1.375
+COS034,Drometrizole trisiloxane,filtro,1.606,1.576
+COS035,Ethylhexyl dimethyl PABA,filtro,-0.409,0.902
+COS036,Ethylhexyl methoxycinnamate,filtro,-0.199,1.002
+COS037,Ethylhexyl salicylate,filtro,-0.207,0.457
+COS038,Ethylhexyl triazone,filtro,5.402,4.945
+COS039,Homosalate,filtro,-0.391,-0.019
+COS040,Isoamyl p-methoxycinnamate,filtro,-0.368,0.203
+COS041,Menthyl anthranilate,filtro,-0.301,0.156
+COS042,Methylene bis-benzotriazolyl tetramethylbutylphenol,filtro,3.503,2.151
+COS043,Octocrylene,filtro,0.567,1.194
+COS044,PABA,filtro,-0.184,-1.802
+COS045,Phenylbenzimidazole sulfonic acid,filtro,1.076,-1.21
+COS046,Terephthalylidene dicamphor sulfonic acid,filtro,1.737,0.691
+COS047,Tris-biphenyl triazine,filtro,2.67,1.688
+COS048,Trolamine salicylate (salicilato),filtro,-0.217,-1.756

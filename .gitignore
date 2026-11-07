@@ -1,0 +1,16 @@
+# dissertação (documento de terceiro: fica só local)
+Versão Final Dissertação*
+
+# sistema / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# controle de execução e logs locais
+.pid*
+*.log
+*.output
+
+# saídas antigas, substituídas
+modelagem/tddft_uv/resultados_direto_antigo/
+modelagem/dft_antioxidantes/especies/_antes_reotimizacao/

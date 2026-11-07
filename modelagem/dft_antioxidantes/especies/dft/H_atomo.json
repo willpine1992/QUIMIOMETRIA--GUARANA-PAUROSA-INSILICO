@@ -1,0 +1,9 @@
+{
+ "e_dft": -0.4982864039944033,
+ "convergiu": true,
+ "s2": 0.75,
+ "nao": 6,
+ "df": false,
+ "lebedev": 17,
+ "t_dft_s": 0.1
+}

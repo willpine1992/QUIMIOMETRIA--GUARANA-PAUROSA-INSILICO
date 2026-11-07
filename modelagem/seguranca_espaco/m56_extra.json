@@ -1,0 +1,573 @@
+{
+ "var": [
+  57.4,
+  25.9
+ ],
+ "cargas": [
+  {
+   "desc": "Massa molar",
+   "pc1": 0.41,
+   "pc2": 0.302
+  },
+  {
+   "desc": "logP",
+   "pc1": 0.105,
+   "pc2": 0.64
+  },
+  {
+   "desc": "TPSA",
+   "pc1": 0.44,
+   "pc2": -0.157
+  },
+  {
+   "desc": "Doadores de LH",
+   "pc1": 0.391,
+   "pc2": -0.248
+  },
+  {
+   "desc": "Aceptores de LH",
+   "pc1": 0.45,
+   "pc2": -0.069
+  },
+  {
+   "desc": "Lig. rotacionáveis",
+   "pc1": 0.195,
+   "pc2": 0.555
+  },
+  {
+   "desc": "Anéis aromáticos",
+   "pc1": 0.407,
+   "pc2": -0.052
+  },
+  {
+   "desc": "Fsp3",
+   "pc1": -0.262,
+   "pc2": 0.312
+  }
+ ],
+ "conj_ref": {
+  "filtro": [
+   9,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   12,
+   12,
+   12,
+   14,
+   15,
+   16,
+   16,
+   16,
+   16,
+   17,
+   19,
+   19,
+   24,
+   29,
+   36,
+   36,
+   42
+  ],
+  "antiox": [
+   3,
+   6,
+   7,
+   7,
+   7,
+   8,
+   8,
+   8,
+   8,
+   10,
+   10,
+   10,
+   12,
+   12,
+   13,
+   13,
+   13,
+   13,
+   17,
+   22
+  ]
+ },
+ "alertas": [
+  {
+   "codigo": "MA_carbonila",
+   "rotulo": "Aceptor de Michael (C=C–C=O)",
+   "desfecho": "sensibilização",
+   "dominio": "Michael",
+   "nota": "enona/enal α,β-insaturada (não aromática)"
+  },
+  {
+   "codigo": "MA_acrilato",
+   "rotulo": "Acrilato terminal",
+   "desfecho": "sensibilização",
+   "dominio": "Michael",
+   "nota": ""
+  },
+  {
+   "codigo": "MA_quinona",
+   "rotulo": "Quinona",
+   "desfecho": "sensibilização",
+   "dominio": "Michael",
+   "nota": ""
+  },
+  {
+   "codigo": "SB_aldeido",
+   "rotulo": "Aldeído (base de Schiff)",
+   "desfecho": "sensibilização",
+   "dominio": "Base de Schiff",
+   "nota": ""
+  },
+  {
+   "codigo": "SB_dicarbonila",
+   "rotulo": "1,2-Dicarbonila",
+   "desfecho": "sensibilização",
+   "dominio": "Base de Schiff",
+   "nota": ""
+  },
+  {
+   "codigo": "SN2_epoxido",
+   "rotulo": "Epóxido",
+   "desfecho": "sensibilização",
+   "dominio": "SN2",
+   "nota": "epóxidos muito substituídos (sesquiterpênicos) reagem pouco"
+  },
+  {
+   "codigo": "SN2_haleto",
+   "rotulo": "Haleto de alquila",
+   "desfecho": "sensibilização",
+   "dominio": "SN2",
+   "nota": ""
+  },
+  {
+   "codigo": "SN2_sulfonato",
+   "rotulo": "Éster de sulfonato",
+   "desfecho": "sensibilização",
+   "dominio": "SN2",
+   "nota": ""
+  },
+  {
+   "codigo": "AC_anidrido",
+   "rotulo": "Anidrido / haleto de acila / isocianato",
+   "desfecho": "sensibilização",
+   "dominio": "Acilação",
+   "nota": ""
+  },
+  {
+   "codigo": "SNAR",
+   "rotulo": "Haloareno ativado (SNAr)",
+   "desfecho": "sensibilização",
+   "dominio": "SNAr",
+   "nota": ""
+  },
+  {
+   "codigo": "PRE_hidroperoxido",
+   "rotulo": "Hidroperóxido",
+   "desfecho": "sensibilização",
+   "dominio": "Radical (pré-hapteno ativado)",
+   "nota": "produto de autoxidação; alérgeno forte por si só"
+  },
+  {
+   "codigo": "PRE_autoxidacao",
+   "rotulo": "Alqueno trissubstituído com H alílico",
+   "desfecho": "sensibilização",
+   "dominio": "Pré-hapteno (autoxidação)",
+   "nota": "forma hidroperóxidos com ar/luz/calor durante o armazenamento"
+  },
+  {
+   "codigo": "PRO_catecol",
+   "rotulo": "Catecol / pirogalol",
+   "desfecho": "sensibilização",
+   "dominio": "Pró-hapteno (oxidação a quinona)",
+   "nota": "oxida a o-quinona"
+  },
+  {
+   "codigo": "PRO_hidroquinona",
+   "rotulo": "Hidroquinona / p-aminofenol",
+   "desfecho": "sensibilização",
+   "dominio": "Pró-hapteno (oxidação a quinona)",
+   "nota": "oxida a p-quinona(imina)"
+  },
+  {
+   "codigo": "GT_epoxido",
+   "rotulo": "Epóxido / aziridina",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_aldeido",
+   "rotulo": "Aldeído",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_ab_insat",
+   "rotulo": "Carbonila α,β-insaturada",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_peroxido",
+   "rotulo": "Peróxido / hidroperóxido",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_nitro_ar",
+   "rotulo": "Nitro aromático",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_amina_ar",
+   "rotulo": "Amina aromática primária",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_nitroso",
+   "rotulo": "N-Nitroso / azo / hidrazina",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_haleto",
+   "rotulo": "Haleto de alquila",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_hpa",
+   "rotulo": "Policíclico aromático (≥3 anéis fundidos)",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ames",
+   "nota": ""
+  },
+  {
+   "codigo": "GT_alilalcoxibenzeno",
+   "rotulo": "Alilalcoxibenzeno (estragol, metileugenol, safrol)",
+   "desfecho": "genotoxicidade",
+   "dominio": "Ativação metabólica",
+   "nota": "genotóxico após 1′-hidroxilação hepática (SCF, 2001)"
+  },
+  {
+   "codigo": "AT_nitro_alif",
+   "rotulo": "Nitro alifático",
+   "desfecho": "atenção",
+   "dominio": "Outro",
+   "nota": "grupo nitro; avaliar em modelo"
+  }
+ ],
+ "n_ref": {
+  "filtro": 28,
+  "antiox": 20
+ },
+ "ref_lista": [
+  {
+   "id": "COS001",
+   "nome": "Acetato de tocoferila",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS002",
+   "nome": "BHA",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS003",
+   "nome": "BHT",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS004",
+   "nome": "Coenzima Q10",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS005",
+   "nome": "EGCG",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS006",
+   "nome": "Ergotioneína",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS007",
+   "nome": "Galato de propila",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS008",
+   "nome": "Hidroxitirosol",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS009",
+   "nome": "Idebenona",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS010",
+   "nome": "Palmitato de ascorbila",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS011",
+   "nome": "Quercetina",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS012",
+   "nome": "Resveratrol",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS013",
+   "nome": "Ácido ascórbico (vitamina C)",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS014",
+   "nome": "Ácido cafeico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS015",
+   "nome": "Ácido carnósico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS016",
+   "nome": "Ácido clorogênico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS017",
+   "nome": "Ácido ferúlico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS018",
+   "nome": "Ácido rosmarínico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS019",
+   "nome": "Ácido α-lipoico",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS020",
+   "nome": "α-Tocoferol (vitamina E)",
+   "grupo": "antiox",
+   "papel": "antioxidante tópico"
+  },
+  {
+   "id": "COS021",
+   "nome": "3-Benzylidene camphor",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS022",
+   "nome": "4-Methylbenzylidene camphor",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS023",
+   "nome": "Benzophenone-3",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA2)"
+  },
+  {
+   "id": "COS024",
+   "nome": "Benzophenone-4",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA2)"
+  },
+  {
+   "id": "COS025",
+   "nome": "Benzophenone-8",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA2)"
+  },
+  {
+   "id": "COS026",
+   "nome": "Benzylidene camphor sulfonic acid",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS027",
+   "nome": "Bis-ethylhexyloxyphenol methoxyphenyl triazine",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA)"
+  },
+  {
+   "id": "COS028",
+   "nome": "Butyl methoxydibenzoylmethane",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVA1)"
+  },
+  {
+   "id": "COS029",
+   "nome": "Camphor benzalkonium methosulfate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS030",
+   "nome": "Cinoxate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS031",
+   "nome": "Diethylamino hydroxybenzoyl hexyl benzoate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVA1)"
+  },
+  {
+   "id": "COS032",
+   "nome": "Diethylhexyl butamido triazone",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS033",
+   "nome": "Disodium phenyl dibenzimidazole tetrasulfonate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVA)"
+  },
+  {
+   "id": "COS034",
+   "nome": "Drometrizole trisiloxane",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA)"
+  },
+  {
+   "id": "COS035",
+   "nome": "Ethylhexyl dimethyl PABA",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS036",
+   "nome": "Ethylhexyl methoxycinnamate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS037",
+   "nome": "Ethylhexyl salicylate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS038",
+   "nome": "Ethylhexyl triazone",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS039",
+   "nome": "Homosalate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS040",
+   "nome": "Isoamyl p-methoxycinnamate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS041",
+   "nome": "Menthyl anthranilate",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVA2)"
+  },
+  {
+   "id": "COS042",
+   "nome": "Methylene bis-benzotriazolyl tetramethylbutylphenol",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA)"
+  },
+  {
+   "id": "COS043",
+   "nome": "Octocrylene",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA2)"
+  },
+  {
+   "id": "COS044",
+   "nome": "PABA",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS045",
+   "nome": "Phenylbenzimidazole sulfonic acid",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  },
+  {
+   "id": "COS046",
+   "nome": "Terephthalylidene dicamphor sulfonic acid",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVA)"
+  },
+  {
+   "id": "COS047",
+   "nome": "Tris-biphenyl triazine",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB/UVA2)"
+  },
+  {
+   "id": "COS048",
+   "nome": "Trolamine salicylate (salicilato)",
+   "grupo": "filtro",
+   "papel": "filtro UV (UVB)"
+  }
+ ]
+}

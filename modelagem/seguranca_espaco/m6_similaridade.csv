@@ -1,0 +1,70 @@
+id,nome,grupo,sim_filtro,viz_filtro,sim_antiox,viz_antiox,conjugado
+PC001,(+)-catechin,guarana,0.182,Benzophenone-3,0.453,EGCG,9
+PC002,(+)-epicatechin,guarana,0.182,Benzophenone-3,0.453,EGCG,9
+PC003,(−)-epicatechin,guarana,0.182,Benzophenone-3,0.453,EGCG,9
+PC004,caffeine,guarana,0.102,Butyl methoxydibenzoylmethane,0.085,Galato de propila,11
+PC005,theobromine,guarana,0.109,Phenylbenzimidazole sulfonic acid,0.132,Ergotioneína,11
+PC006,theophylline,guarana,0.103,PABA,0.113,Ergotioneína,11
+PC007,(+)-procyanidin B2,guarana,0.147,Benzophenone-3,0.324,EGCG,9
+PC008,(-)-procyanidin B4,guarana,0.147,Benzophenone-3,0.324,EGCG,9
+PC009,proanthocyanidin A2,guarana,0.135,Benzophenone-3,0.28,EGCG,9
+PC010,procyanidin B1,guarana,0.147,Benzophenone-3,0.324,EGCG,9
+PC011,procyanidin B3,guarana,0.147,Benzophenone-3,0.324,EGCG,9
+PC012,procyanidin C1,guarana,0.145,Benzophenone-3,0.319,EGCG,9
+PC013,"(1R,2S,7S,8S)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",guarana,0.2,4-Methylbenzylidene camphor,0.19,Ácido carnósico,2
+PC014,(±)-limonene,guarana,0.137,4-Methylbenzylidene camphor,0.155,Ácido carnósico,2
+PC015,anethol,guarana,0.41,Cinoxate,0.3,Resveratrol,9
+PC016,carvacrol,guarana,0.19,Benzophenone-8,0.219,BHT,7
+PC017,caryophyllene,paurosa,0.185,4-Methylbenzylidene camphor,0.159,Ácido carnósico,2
+PC018,estragole,guarana,0.308,Butyl methoxydibenzoylmethane,0.278,BHA,7
+PC019,p-tert-pentylphenol,guarana,0.256,Butyl methoxydibenzoylmethane,0.258,Resveratrol,7
+PC020,trans-anethol,guarana,0.41,Cinoxate,0.3,Resveratrol,9
+PC021,cis-vaccenic acid,guarana,0.193,Diethylamino hydroxybenzoyl hexyl benzoate,0.316,Ácido α-lipoico,3
+PC022,paullinic acid,guarana,0.193,Diethylamino hydroxybenzoyl hexyl benzoate,0.316,Ácido α-lipoico,3
+AR001,1-Nitro-2-phenylethane,paurosa,0.219,Trolamine salicylate (salicilato),0.171,Hidroxitirosol,6
+AR002,Benzyl benzoate,paurosa,0.325,Benzophenone-3,0.289,Galato de propila,9
+AR003,Methyl p-anisate,paurosa,0.515,Butyl methoxydibenzoylmethane,0.324,BHA,10
+AR004,linalool 6-hydroperoxide,oxid,0.145,Isoamyl p-methoxycinnamate,0.123,Coenzima Q10,2
+AR005,linalool 7-hydroperoxide,oxid,0.128,Butyl methoxydibenzoylmethane,0.135,BHT,2
+AR006,(E)-β-Ocimene,paurosa,0.128,Isoamyl p-methoxycinnamate,0.174,Coenzima Q10,4
+AR007,(Z)-β-Ocimene,paurosa,0.128,Isoamyl p-methoxycinnamate,0.174,Coenzima Q10,4
+AR008,Limonene,paurosa,0.137,4-Methylbenzylidene camphor,0.155,Ácido carnósico,2
+AR009,Myrcene,paurosa,0.078,Cinoxate,0.273,Coenzima Q10,4
+AR010,α-Pinene,paurosa,0.191,4-Methylbenzylidene camphor,0.14,Ácido carnósico,2
+AR011,α-terpinolene,paurosa,0.102,4-Methylbenzylidene camphor,0.152,BHT,2
+AR012,β-Pinene,paurosa,0.17,3-Benzylidene camphor,0.14,Ácido carnósico,2
+AR013,cis-Linalool oxide (furanoid),paurosa,0.158,Benzylidene camphor sulfonic acid,0.129,Ácido carnósico,2
+AR014,cis-Linalool oxide (pyranoid),paurosa,0.164,Benzylidene camphor sulfonic acid,0.133,Ácido carnósico,2
+AR015,Geraniol,paurosa,0.094,Terephthalylidene dicamphor sulfonic acid,0.375,Coenzima Q10,2
+AR016,Linalool,paurosa,0.109,Butyl methoxydibenzoylmethane,0.234,Coenzima Q10,2
+AR017,Nerol,paurosa,0.094,Terephthalylidene dicamphor sulfonic acid,0.375,Coenzima Q10,2
+AR018,trans-Linalool oxide (furanoid),paurosa,0.158,Benzylidene camphor sulfonic acid,0.129,Ácido carnósico,2
+AR019,trans-Linalool oxide (pyranoid),paurosa,0.164,Benzylidene camphor sulfonic acid,0.133,Ácido carnósico,2
+AR020,trans-Pinene hydrate,paurosa,0.154,Benzylidene camphor sulfonic acid,0.164,Ácido carnósico,0
+AR021,α-Terpineol,paurosa,0.137,4-Methylbenzylidene camphor,0.2,BHT,2
+AR022,(3E)-Hexenol,paurosa,0.111,Cinoxate,0.129,Hidroxitirosol,2
+AR023,1-Hexanol,paurosa,0.184,Diethylamino hydroxybenzoyl hexyl benzoate,0.273,Idebenona,0
+AR025,Germacrene B,paurosa,0.115,4-Methylbenzylidene camphor,0.135,BHT,2
+AR026,Valencene,paurosa,0.169,Homosalate,0.152,Ácido carnósico,2
+AR027,α-Copaene,paurosa,0.2,4-Methylbenzylidene camphor,0.19,Ácido carnósico,2
+AR028,β-Elemene,paurosa,0.175,Benzylidene camphor sulfonic acid,0.127,Ácido carnósico,2
+AR029,β-Selinene,paurosa,0.164,Benzylidene camphor sulfonic acid,0.172,Ácido carnósico,2
+AR030,γ-Gurjunene,paurosa,0.131,Menthyl anthranilate,0.125,Ácido carnósico,2
+AR031,δ-Cadinene,paurosa,0.193,Menthyl anthranilate,0.183,Ácido carnósico,2
+AR032,(E)-Nerolidol,paurosa,0.096,Butyl methoxydibenzoylmethane,0.362,Coenzima Q10,2
+AR033,(Z)-Lanceol,paurosa,0.134,Terephthalylidene dicamphor sulfonic acid,0.217,Coenzima Q10,2
+AR034,(Z)-α-Santalol,paurosa,0.133,Terephthalylidene dicamphor sulfonic acid,0.161,Coenzima Q10,2
+AR035,14-Hydroxy-(Z)-caryophyllene,paurosa,0.175,Terephthalylidene dicamphor sulfonic acid,0.164,Ácido carnósico,2
+AR036,14-Hydroxy-9-epi-(E)-caryophyllene,paurosa,0.175,Terephthalylidene dicamphor sulfonic acid,0.164,Ácido carnósico,2
+AR037,14-Hydroxy-α-humulene,paurosa,0.125,Terephthalylidene dicamphor sulfonic acid,0.136,α-Tocoferol (vitamina E),2
+AR038,"Caryophylla-4 (12),8(13)-dien-5β-ol",paurosa,0.164,Homosalate,0.164,Ácido carnósico,2
+AR039,Caryophyllene oxide,paurosa,0.14,3-Benzylidene camphor,0.154,Ácido carnósico,2
+AR040,Cubenol,paurosa,0.237,Menthyl anthranilate,0.206,Ácido carnósico,2
+AR041,Humulene epoxide II,paurosa,0.158,4-Methylbenzylidene camphor,0.136,Ácido carnósico,2
+AR042,iso-Longifolol,paurosa,0.19,Terephthalylidene dicamphor sulfonic acid,0.197,Ácido carnósico,0
+AR043,Junenol,paurosa,0.177,Menthyl anthranilate,0.206,Ácido carnósico,2
+AR044,Khusilal,paurosa,0.125,Menthyl anthranilate,0.119,Ácido carnósico,4
+AR045,neo-Intermedeol,paurosa,0.131,Benzylidene camphor sulfonic acid,0.177,Ácido carnósico,2
+AR046,Selin-11-en-4α-ol,paurosa,0.131,Benzylidene camphor sulfonic acid,0.177,Ácido carnósico,2
+AR047,Spathulenol,paurosa,0.15,Benzylidene camphor sulfonic acid,0.159,Ácido carnósico,2
+AR048,β-Acoradienol,paurosa,0.175,Terephthalylidene dicamphor sulfonic acid,0.147,Ácido carnósico,2
