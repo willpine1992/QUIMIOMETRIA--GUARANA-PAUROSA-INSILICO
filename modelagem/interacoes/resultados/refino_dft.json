@@ -4,26 +4,41 @@
   {
    "id": "hb_O19_A3_0",
    "tipo": "π-empilhamento (anel A) + ligação H",
+   "pronto": true,
    "dE_xtb": -13.335897630622753,
-   "pronto": false,
-   "feitos": 3,
-   "total": 9
+   "dG_xtb": 1.9628909313395446,
+   "dE_int": -13.683100998377354,
+   "dE_lig": -11.639435746734469,
+   "bsse": 9.204284291289833,
+   "deformacao": 2.043665251642885,
+   "convergiu": true,
+   "dG": 3.6593528152278294
   },
   {
    "id": "pi_B+_13",
    "tipo": "π-empilhamento (anel B)",
+   "pronto": true,
    "dE_xtb": -13.166355738081633,
-   "pronto": false,
-   "feitos": 3,
-   "total": 9
+   "dG_xtb": 1.1858221316622497,
+   "dE_int": -8.904509822927013,
+   "dE_lig": -8.03398214025872,
+   "bsse": 6.133827363624575,
+   "deformacao": 0.8705276826682926,
+   "convergiu": true,
+   "dG": 6.31819572948515
   },
   {
    "id": "pi_A+_14",
    "tipo": "π-empilhamento (anel A)",
+   "pronto": true,
    "dE_xtb": -12.883774666487033,
-   "pronto": false,
-   "feitos": 0,
-   "total": 9
+   "dG_xtb": null,
+   "dE_int": -9.116316331236265,
+   "dE_lig": -8.344533207098713,
+   "bsse": 7.066161497465044,
+   "deformacao": 0.771783124137551,
+   "convergiu": true,
+   "dG": 6.090365512415809
   }
  ]
 }
