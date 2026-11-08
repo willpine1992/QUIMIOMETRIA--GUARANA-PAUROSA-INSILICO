@@ -1,0 +1,29 @@
+{
+ "nivel": "wb97x-v/def2-svp (VV10), IEF-PCM água; BSSE contrapeso em fase gasosa; geometrias GFN2-xTB/ALPB",
+ "complexos": [
+  {
+   "id": "hb_O19_A3_0",
+   "tipo": "π-empilhamento (anel A) + ligação H",
+   "dE_xtb": -13.335897630622753,
+   "pronto": false,
+   "feitos": 3,
+   "total": 9
+  },
+  {
+   "id": "pi_B+_13",
+   "tipo": "π-empilhamento (anel B)",
+   "dE_xtb": -13.166355738081633,
+   "pronto": false,
+   "feitos": 3,
+   "total": 9
+  },
+  {
+   "id": "pi_A+_14",
+   "tipo": "π-empilhamento (anel A)",
+   "dE_xtb": -12.883774666487033,
+   "pronto": false,
+   "feitos": 0,
+   "total": 9
+  }
+ ]
+}

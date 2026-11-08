@@ -1,9 +1,1 @@
-{
- "e_dft": -680.0837499085302,
- "convergiu": true,
- "s2": 0.760960358798215,
- "nao": 368,
- "df": false,
- "lebedev": 17,
- "t_dft_s": 960.1
-}
+{"e_dft": -680.0842876866834, "convergiu": true, "s2": 0.7601426393265456, "nao": 368, "df": false, "lebedev": 17, "t_dft_s": 1328.8}

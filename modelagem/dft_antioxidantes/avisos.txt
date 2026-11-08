@@ -1,6 +1,1 @@
-cafeina__cation: 2 freq. imaginária(s) (min -84 cm-1)
-cafeina__rad_8: 1 freq. imaginária(s) (min -59 cm-1)
-teobromina: 1 freq. imaginária(s) (min -70 cm-1)
-teobromina__cation: 2 freq. imaginária(s) (min -114 cm-1)
-teobromina__rad_8: 1 freq. imaginária(s) (min -86 cm-1)
-teobromina__an_1: 1 freq. imaginária(s) (min -100 cm-1)
+nenhum
