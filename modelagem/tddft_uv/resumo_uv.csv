@@ -1,0 +1,10 @@
+id,nome,papel,n_atomos,convergiu,t_min,lambda_max_nm,estado_forte_nm,estado_forte_f,homo_ev,lumo_ev,gap_ev,dureza_eta_ev,potencial_quimico_mu_ev,eletrofilicidade_omega_ev,estado_forte_carater,estado_forte_nto_peso,area_UVC,area_UVB,area_UVA2,area_UVA1,area_VIS,lambda_critico_nm
+benzofenona_3,Benzofenona-3,calibração (filtro UV comercial),29,True,84.3,290.0,290.8813311723424,0.344436301804936,-7.808,-0.824,6.984,3.492,-4.316,2.667,HOMO→LUMO (73%),0.958,19.11,6.158,0.147,0.002,0.0,311.0
+linalol,Linalol,óleo essencial de pau-rosa (majoritário),29,True,83.5,,,,-7.829,0.932,8.761,4.38,-3.448,1.357,,,0.049,0.0,0.0,0.0,0.0,
+oxido_linalol,cis-Óxido de linalol (furanoide),óleo essencial de pau-rosa,30,True,261.2,,,,-8.66,0.949,9.609,4.804,-3.856,1.547,,,0.0,0.0,0.0,0.0,0.0,
+cafeina,Cafeína,extratos DCM/EtOH de guaraná,24,True,33.0,251.0,250.58604104740144,0.25693656237400087,-7.658,0.092,7.75,3.875,-3.783,1.847,HOMO→LUMO (94%),0.96,6.862,0.0,0.0,0.0,0.0,
+teobromina,Teobromina,extratos DCM/EtOH de guaraná,21,True,29.8,251.0,250.7571998081091,0.261579874236054,-7.724,0.023,7.747,3.874,-3.851,1.914,HOMO→LUMO (94%),0.963,6.634,0.0,0.0,0.0,0.0,
+teofilina,Teofilina,extratos DCM/EtOH de guaraná,21,True,22.6,250.0,,,-7.725,0.066,7.791,3.895,-3.829,1.882,,,6.408,0.0,0.0,0.0,0.0,
+epicatequina,(−)-Epicatequina,extrato EtOH de guaraná (unidade das procianidinas),35,True,685.5,250.0,,,-7.453,0.643,8.095,4.048,-3.405,1.432,,,11.554,0.0,0.0,0.0,0.0,
+quercetina,Quercetina,padrão (formulação F6),32,True,2478.3,340.0,340.4679596753044,0.7111159608383125,-7.107,-1.061,6.046,3.023,-4.084,2.759,HOMO→LUMO (92%),0.967,24.103,2.62,10.807,15.615,0.029,364.0
+epicatequina_oquinona,o-Quinona da epicatequina,M7 · produto de oxidação (cor),33,True,122.9,267.0,266.9485872115866,0.12400572436553939,-7.561,-2.697,4.865,2.432,-5.129,5.408,HOMO-4→LUMO (81%),0.992,6.891,0.063,0.093,1.073,2.312,396.0

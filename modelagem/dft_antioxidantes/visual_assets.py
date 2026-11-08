@@ -176,11 +176,11 @@ def gerar_volumes(forcar=False) -> dict:
 def manifesto() -> dict:
     man = {}
     for f in sorted(VOL.glob("*.js")):
-        if f.name.startswith("_"):
+        if f.name.startswith(("_", "nci__")):
             continue
         txt = f.read_text()
         meta = json.loads(txt[txt.index("=", txt.index("]")) + 1:].rstrip(";"))
-        meta.pop("dados"); meta.pop("xyz_bohr"); meta.pop("z")
+        for k in ("dados", "xyz_bohr", "z"): meta.pop(k, None)
         man[f.stem] = {k: meta[k] for k in ("tipo", "rotulo") if k in meta} | (
             {"energia_ev": meta["energia_ev"]} if "energia_ev" in meta else {}) | (
             {"nivel": meta["nivel"]} if "nivel" in meta else {}) | (
